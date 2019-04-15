@@ -101,7 +101,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color:  rgba(50, 59, 59, 0.76);
+  background-color:  rgba(39, 46, 46, 0.548);
 }
 
 #mainNav .navbar-toggler {
@@ -157,7 +157,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: rgba(39, 46, 46, 0.76);
+    background-color: rgba(39, 46, 46, 0.548);
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
