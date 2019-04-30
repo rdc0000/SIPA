@@ -74,7 +74,7 @@ section h3.section-subheading {
 .btn-primary {
   background-color: #fed136;
   border-color: #fed136;
-  margin-top: 40%;
+  margin-top: 20%;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -391,14 +391,13 @@ header.masthead .intro-text .intro-heading {
   transform: rotate(90deg);
   background-color: #212529;
 }
-.validar, .name, .icons, .boton{
-  margin-left: 100%;
+#Formulario, #formRegister{
+  
   color: #fec503;
-  width: 400px;
-  height: 50px;
+  
   font-size: 30px;
 }
-.ico, .nuevo {
+.modal-body{
   font-size: 30px;
   color: #fec503;
   margin-left:0; 
@@ -555,7 +554,7 @@ header.masthead .intro-text .intro-heading {
     height: 70%;
     background-image: url("../img/SIPA_2.png");
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: initial;
     
     background-position: center;
   }
