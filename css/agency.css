@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #c49705;
 }
 
 .text-primary {
@@ -310,6 +310,7 @@ header.masthead .intro-text .intro-heading {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
+  
 }
 
 .portfolio-modal {
@@ -396,6 +397,13 @@ header.masthead .intro-text .intro-heading {
   color: #fec503;
   
   font-size: 30px;
+}
+.colum{
+  margin-left: 50rem;
+}
+button,a {
+  color: #fff;
+
 }
 .modal-body{
   font-size: 30px;
@@ -545,6 +553,7 @@ header.masthead .intro-text .intro-heading {
     padding: 0 30px 20px 20px;
     text-align: left;
   }
+  
 }
 @media (max-width: 992px) {
   header.masthead {
@@ -557,6 +566,9 @@ header.masthead .intro-text .intro-heading {
     background-attachment: initial;
     
     background-position: center;
+  }
+  .colum{
+    margin-left: 3rem;
   }
 }
 
